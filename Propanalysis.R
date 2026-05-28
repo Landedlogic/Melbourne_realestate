@@ -1,7 +1,7 @@
 #Set up
 
 getwd()
-setwd("/Users/godwinkavaarpuo/Library/CloudStorage/GoogleDrive-gkavaarpuo@gmail.com/My Drive/Research/R")
+setwd("/My Drive/Research/R")
 list.files()
 
 library("pacman")
